@@ -51,6 +51,8 @@ header{
     font-size: 13px;
     cursor: pointer;
     text-transform: uppercase;
+    -moz-transition:0.8s ease-in-out;
+	-webkit-transition:0.8s ease-in-out;
 }
 .btn:hover{
 	background:skyblue;
@@ -263,6 +265,8 @@ i.fa.fa-bullhorn:after{
     margin-left: 320px;
     margin-bottom: 104px;
     cursor: pointer;
+    -moz-transition:0.8s ease-in-out;
+	-webkit-transition:0.8s ease-in-out;
 }
 .bto:hover{
 	background-color: #15a4fa;
@@ -306,6 +310,8 @@ i.fa.fa-bullhorn:after{
     cursor: pointer;
     margin-bottom: 26px;
     font-size: 14px;
+    -moz-transition:0.5s ease-in-out;
+	-webkit-transition:0.5s ease-in-out;
 
 }
 .fa.fa-facebook:hover{
