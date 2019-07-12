@@ -236,7 +236,8 @@ i.fa.fa-bullhorn:after{
     box-shadow: none;
     color: #fff;
     border-radius: 10px;
-}
+    border-style: groove;
+}}
 .batton{
     width: 100%;
 }
@@ -247,6 +248,7 @@ i.fa.fa-bullhorn:after{
 	background:transparent;
 	color: #fff;
 	border-radius: 10px;
+	border-style: groove;
 }
 .bb{
 	cursor: pointer;
