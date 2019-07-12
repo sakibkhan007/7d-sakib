@@ -52,7 +52,7 @@ header{
     cursor: pointer;
     text-transform: uppercase;
     -moz-transition:0.8s ease-in-out;
-	-webkit-transition:0.8s ease-in-out;
+    -webkit-transition:0.8s ease-in-out;
 }
 .btn:hover{
 	background:skyblue;
@@ -162,7 +162,7 @@ i.fa.fa-bullhorn:after{
 .feature-one h2{
     font-size: 17px;
 	margin-top: 33px;
-	/*margin-bottom: 26px;*/
+	
 }
 .feature-one p{
 	line-height: 14px;
@@ -266,7 +266,7 @@ i.fa.fa-bullhorn:after{
     margin-bottom: 104px;
     cursor: pointer;
     -moz-transition:0.8s ease-in-out;
-	-webkit-transition:0.8s ease-in-out;
+    -webkit-transition:0.8s ease-in-out;
 }
 .bto:hover{
 	background-color: #15a4fa;
